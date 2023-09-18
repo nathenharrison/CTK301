@@ -1,0 +1,62 @@
+h1{
+    color:white;
+}
+.top{
+    background-color:cadetblue;
+}
+a {
+    color: #ff0000;
+  }
+  .doctor{
+    color: orange;
+  }
+  a {
+    color: darkgreen;
+  } 
+  a:link {
+    color: darkgreen;
+  }
+  
+  a:visited {
+    color: darkgreen;
+  }
+  
+  a:active {
+    color:darkgreen;
+  }
+  
+  a:hover {
+    color: red;
+  } 
+  a {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }       
+h2{
+    color:blue;
+}
+h3{
+    background-color: yellow;
+}
+.body{
+    color:red;
+}
+h4{
+    color:yellow;
+    background-color: green;
+}
+.bottom{
+color: blue;
+}
+h5{
+    color:red;
+}
+.planet{
+    background-color: yellow;
+}
+.art{
+   background-color:mediumspringgreen;
+}

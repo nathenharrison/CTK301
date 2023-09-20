@@ -9,7 +9,7 @@ h3{
     color: rebeccapurple;
 }
 p{
-    color: #2f4f4f;
+    color: black;
 }
 .class{
     background-color:#fff8dc;
@@ -23,6 +23,7 @@ p{
 }
 ul{
     color: #483d8b;
+    background-color: #fff8dc;
 }
 .main{
     color :blue;
@@ -40,3 +41,35 @@ a {
   a:visited {
     color: #00ff00;
   } 
+  .textcenter {
+    text-align: center;
+    background-color: lightgray;
+}
+.textjustify {
+    text-align: justify;
+}
+.imgbox {
+    border: 10px solid black;
+    padding: 10px 10px 10px 10px;
+    margin: 20px 20px 20px 20px;
+    background-color: yellow;
+}
+.font {
+    color:orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+header{
+    font-family: Arial, Helvetica
+}
+main{
+    font-family: Arial, Helvetica
+}
+nav{
+    font-family: Arial, Helvetica
+}
+body {
+    background-color: #eeeeee;
+    background-image: url(backgroundimage.jpg);
+}

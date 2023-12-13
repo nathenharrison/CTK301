@@ -49,7 +49,7 @@ font-size: 24px;
   border: 1px solid #999;
   border-radius: 10px;
   box-shadow: 10px 10px 10px #999;
-transition: background-color 1.0s, width 2.0s, color 2.0s;
+transition: background-color 2.0s, width 2.0s, color 5.0s;
 }
 nav li a{
   color:black;
@@ -63,6 +63,10 @@ margin :20px;
 padding:30px;
   width: 250px;
   color: black;
+}
+.large{
+  background-color: darkred;
+  padding: 30px;
 }
 main {
   grid-column: span 12;
@@ -104,4 +108,6 @@ footer {
   font-size: 24px;
   padding-right: 24px;
 }
-
+form{
+  border: solid 2px black;
+}
